@@ -7,7 +7,7 @@
 <h4 align="center">Authors :</h4>
 
 <p align="center">Georges SARR (georges.sarr@ensae.fr)</p>
-<p align="center">Hamdi BEL HADJ HASSINE (georges.sarr@ensae.fr)</p>
+<p align="center">Hamdi BEL HADJ HASSINE (hamdi.belhadjhassine@ensae.fr)</p>
 <p align="center">Lasme Ephrem ESSOH(lasmeephremdominique.essoh@ensae.fr)</p>
 
 <h4 align="center">Theme :</h4>
