@@ -4,13 +4,13 @@
   <br><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LOGO-ENSAE.png/480px-LOGO-ENSAE.png", width="250", height="200">
 </p>
-<p align="center">Authors :</p>
+<h4 align="center">Authors :</h4>
 
 <p align="center">Georges SARR (georges.sarr@ensae.fr)</p>
 <p align="center">Hamdi BEL HADJ HASSINE (georges.sarr@ensae.fr)</p>
 <p align="center">Lasme Ephrem ESSOH(lasmeephremdominique.essoh@ensae.fr)</p>
 
-<p align="center">Topic :</p>
+<h4 align="center">Topic :</h4>
 <h3><p align="center">Bayesian Variable Selection and Estimation for Group Lasso</p></h3>
 
 This is repos of our main code sources about bayesian statistics project 2022 (ENSAE Paris - IP Paris).
