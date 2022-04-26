@@ -11,7 +11,7 @@
 <p align="center">Lasme Ephrem ESSOH(lasmeephremdominique.essoh@ensae.fr)</p>
 
 <p align="center">Topic :</p>
-<h4><p align="center">Bayesian Variable Selection and Estimation for Group Lasso</p></h4>
+<h3><p align="center">Bayesian Variable Selection and Estimation for Group Lasso</p></h3>
 
 This is repos of our main code sources about bayesian statistics project 2022 (ENSAE Paris - IP Paris).
 
