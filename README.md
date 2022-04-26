@@ -4,7 +4,7 @@
   <br><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LOGO-ENSAE.png/480px-LOGO-ENSAE.png", width="250", height="200">
 </p>
-<p align="center">Réalisé par :</p>
+<p align="center">Authors :</p>
 
 <p align="center">Georges SARR (georges.sarr@ensae.fr)</p>
 <p align="center">Hamdi BEL HADJ HASSINE (georges.sarr@ensae.fr)</p>
