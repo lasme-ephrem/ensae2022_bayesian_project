@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LOGO-ENSAE.png/480px-LOGO-ENSAE.png", width="200", height="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LOGO-ENSAE.png/480px-LOGO-ENSAE.png", width="250", height="200">
 </p>
 <p align="center">Réalisé par :</p>
 
@@ -24,8 +24,4 @@ Ce repos github s'inscrit dans le cadre du projet de Machine Learning for NLP. I
 
 
  ### Reference 
-Xiaofan Xu and Malay Ghosh, Bayesian Variable Selection and Estimation for Group Lasso, Bayesian Analysis, 10, 909 – 936, 2015.
-  
-  <a href ="https://github.com/Rebecasarai/Amazon-reviews-sentiment-analysis-pytorch">Référence 1 (sentiment analysis)<a/>
-    
-  <a href ="https://www.kaggle.com/code/rahuldshetty/text-summarization-in-pytorch/notebook">Référence 2 (text summarization)<a/>
+<a href ="https://arxiv.org/pdf/1512.01013.pdf">Xiaofan Xu and Malay Ghosh, Bayesian Variable Selection and Estimation for Group Lasso, Bayesian Analysis, 10, 909 – 936, 2015. <a/>
