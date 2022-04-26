@@ -10,7 +10,7 @@
 <p align="center">Hamdi BEL HADJ HASSINE (georges.sarr@ensae.fr)</p>
 <p align="center">Lasme Ephrem ESSOH(lasmeephremdominique.essoh@ensae.fr)</p>
 
-<h4 align="center">Topic :</h4>
+<h4 align="center">Theme :</h4>
 <h3><p align="center">Bayesian Variable Selection and Estimation for Group Lasso</p></h3>
 
 This is repos of our main code sources about bayesian statistics project 2022 (ENSAE Paris - IP Paris).
