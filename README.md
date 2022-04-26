@@ -16,7 +16,6 @@
 
 
 ### Description 
-This is repos of our main code sources about bayesian statistics project 2022 (ENSAE Paris - IP Paris).
 
 This github repository is part of the Bayesian Statistics project. It deals with feature selection in a sparse regression model by using Bayesian approach. It includes the main <a href  ="https://github.com/lasme-ephrem/ensae2022_bayesian_project/blob/main/notebook_bayesian_project.ipynb">notebook<a/>  of the project with all the source codes of the models and simulations. This repository can be cloned and run in a jupyter notebook on your own computer. It can also be run directly from the Google Colab link below.
 
