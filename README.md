@@ -2,10 +2,8 @@
 
 <p align="center">
   <br><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LOGO-ENSAE.png/480px-LOGO-ENSAE.png", width="300", height="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LOGO-ENSAE.png/480px-LOGO-ENSAE.png", width="200", height="200">
 </p>
-
-
 <p align="center">Réalisé par :</p>
 
 <p align="center">Georges SARR (georges.sarr@ensae.fr)</p>
