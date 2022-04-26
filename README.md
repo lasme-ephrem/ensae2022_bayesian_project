@@ -1,5 +1,3 @@
-# ensae2022_bayesian_project
-
 <h1><p align="center">Bayesian statistics project </p></h1>
 
 <p align="center">
@@ -29,9 +27,8 @@ Ce repos github s'inscrit dans le cadre du projet de Machine Learning for NLP. I
   Notebook du transfert du LSTM : <a href="https://colab.research.google.com/drive/1i5zehYMtjF6N2Nn3f0aB5XStkQSI_6ne?usp=sharing">TRANSFERT COLAB.<a/>
 
 
- ### Références de travail :
-  
-  Pour batir ce travail, nous nous sommes inspirés des références suivantes :
+ ### Reference 
+Xiaofan Xu and Malay Ghosh, Bayesian Variable Selection and Estimation for Group Lasso, Bayesian Analysis, 10, 909 – 936, 2015.
   
   <a href ="https://github.com/Rebecasarai/Amazon-reviews-sentiment-analysis-pytorch">Référence 1 (sentiment analysis)<a/>
     
