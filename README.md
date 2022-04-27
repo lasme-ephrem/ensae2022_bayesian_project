@@ -20,7 +20,7 @@
 This github repository is part of the Bayesian Statistics project. It deals with feature selection in a sparse regression model by using Bayesian approach. It includes the main <a href  ="https://github.com/lasme-ephrem/ensae2022_bayesian_project/blob/main/Notebook.ipynb">notebook<a/>  of the project with all the source codes of the models and simulations. This repository can be cloned and run in a jupyter notebook on your own computer. It can also be run directly from the Google Colab link below.
 
 ###  Running on Google Colab (Fast)
-To run our project on colab , click on this link :  <a href="https://colab.research.google.com/drive/1N1I8gShlDpqSw53JlkRSr7ZSE28TtUsZ?usp=sharing"> Bayesian Statistics Project On Google Colab.<a/>
+To run our project on colab , click on this link :  <a href="https://colab.research.google.com/drive/1DtStPB_fz6Xu0n3XJAwf7T7pnf4pvxST?usp=sharing"> Bayesian Statistics Project On Google Colab.<a/>
 
 
  ### Reference 
